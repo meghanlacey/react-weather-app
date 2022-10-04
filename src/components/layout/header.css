@@ -1,0 +1,28 @@
+.app-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  padding: 0 20px;
+}
+
+.app-header img {
+  width: 150px;
+}
+
+.header-title {
+  font-size: 50px;
+  font-weight: 300;
+  text-align: center;
+  color: #fff;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.header-text {
+  background-color: #f1f1f1;
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 18px;
+  margin: 10px 0;
+  border-radius: 10px;
+}
